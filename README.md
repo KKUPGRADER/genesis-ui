@@ -12,8 +12,8 @@
 - Toasts & Modals
 
 ### Special Components & APIs
-- ##### Sliced Menu
-- ##### ClipBoard API
+- **Sliced Menu**
+- **ClipBoard API**
 
 ## License
 MIT
