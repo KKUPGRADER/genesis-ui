@@ -12,8 +12,18 @@
 - Toasts & Modals
 
 ### Special Components & APIs
-- **Sliced Menu**
-- **ClipBoard API**
+- ##### Sliced Menu
+- ##### ClipBoard API
+- 
+# CDNs
+### CSS
+```
+https://cdn.statically.io/gh/KKUPGRADER/genesis-ui/main/css/genesis-ui.min.css
+```
+### JS
+```
+https://cdn.statically.io/gh/KKUPGRADER/genesis-ui/main/js/genesis-ui.min.js
+```
 
 ## License
 MIT
