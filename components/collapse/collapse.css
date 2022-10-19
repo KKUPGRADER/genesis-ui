@@ -1,8 +1,0 @@
-.g-collapse {
-    transition: height .5s ease;
-    overflow: hidden;
-}
-
-.g-collapse:not(.active) {
-    display: none;
-}
